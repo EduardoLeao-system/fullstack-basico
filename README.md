@@ -6,3 +6,4 @@ SQLite. O objetivo é cadastrar alunos (com nome, email e curso) por meio de um 
 listar os alunos cadastrados e permitir a remoção deles.
 ```
 # Este guia é adaptado para usuários de Linux, macOS e Windows.
+# Feito com REACT + VITE e CSS como estilização.
